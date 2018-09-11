@@ -1,0 +1,3 @@
+"0","cr_peaks = identifyPeaks(file = chromium, signal_type = ""absolute"","
+"0","                         num_peaks = 10, percent_max = 10,"
+"0","                         sortby = ""wavelength"")"

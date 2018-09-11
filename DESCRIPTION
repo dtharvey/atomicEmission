@@ -1,0 +1,22 @@
+Package: atomicEmission
+Type: Package
+Title: Simulation of Atomic Emission Spectra
+Version: 1.0.0
+Author: David Harvey
+Maintainer: David Harvey <harvey@depauw.edu>
+Description: Simulates an element's atomic emission spectrum at a 
+  given temperature using one of three possible models for 
+  estimating the element's temperature-dependent partition function.
+  Emission spectra are displayed as either peaks or as lines, 
+  and the corresponding atomic absorption line spectrum may be 
+  viewed. 
+Depends: R (>= 3.1.0)
+Imports:
+    pracma
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr

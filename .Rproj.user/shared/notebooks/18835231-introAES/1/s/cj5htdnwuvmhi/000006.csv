@@ -1,0 +1,2 @@
+"0","library(knitr)"
+"0","kable(cr_peaks, align = c(""c""), caption = ""Most Intense Peaks in Cr Atomic Emission Spectrum"")"
