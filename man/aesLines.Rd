@@ -4,7 +4,8 @@
 \name{aesLines}
 \alias{aesLines}
 \title{Characteristic Values for Atomic Emission Lines.}
-\format{A data frame with 3857 observations of 5 variables:
+\format{
+A data frame with 3857 observations of 5 variables:
 
 \describe{
 \item{element}{name of element}
@@ -12,7 +13,8 @@
 \item{aki}{transition probability, in s^-1, from the upper energy level to the lower energy level}
 \item{ek}{energy of the upper energy level, in eV}
 \item{gk}{the statistical weight of the upper energy level}
-}}
+}
+}
 \source{
 Data are from Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD Team (2018). NIST Atomic Spectra Database (ver. 5.5.6), <https://physics.nist.gov/asd>; National Institute of Standards and Technology, Gaithersburg, MD and are used with permission.
 }

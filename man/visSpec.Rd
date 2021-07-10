@@ -4,12 +4,14 @@
 \name{visSpec}
 \alias{visSpec}
 \title{Visible Spectrum.}
-\format{A data frame with 50001 observations of two variables:
+\format{
+A data frame with 50001 observations of two variables:
   \describe{
   \item{wavelength}{wavelength, in nm, for visible
   light}
   \item{color}{rgb value for each wavelength}
-  }}
+  }
+}
 \source{
 Created locally using an internal script (createVis.R)
   and called by the function plotLines.

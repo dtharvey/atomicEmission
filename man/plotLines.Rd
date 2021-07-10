@@ -4,9 +4,15 @@
 \alias{plotLines}
 \title{Plot Atomic Emission Lines}
 \usage{
-plotLines(file, lambda.min = 390, lambda.max = 700,
-  spectrum_type = c("emission", "absorbance"), emission_bg = c("white",
-  "black"), scale_emission = TRUE, main_title = NULL)
+plotLines(
+  file,
+  lambda.min = 390,
+  lambda.max = 700,
+  spectrum_type = c("emission", "absorbance"),
+  emission_bg = c("white", "black"),
+  scale_emission = TRUE,
+  main_title = NULL
+)
 }
 \arguments{
 \item{file}{The name of an object, created by

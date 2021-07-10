@@ -4,7 +4,8 @@
 \name{aesCoeff}
 \alias{aesCoeff}
 \title{Coefficients for Partition Function Models.}
-\format{A data frame with 46 observations of 18 variables:
+\format{
+A data frame with 46 observations of 18 variables:
 
 \describe{
 \item{element}{name of element}
@@ -25,7 +26,8 @@
 \item{irwin_a3}{fourth coefficient of Irwin model}
 \item{irwin_a4}{fifth coefficient of Irwin model}
 \item{irwin_a5}{sixth coefficient of Irwin model}
-}}
+}
+}
 \source{
 Coefficients are adapted from the following sources: deGalan, L.; Smith, R.; Winefordner, J. D. "The Electronic Partition Functions of Atoms and Ions Between 1500 K and 7000 K" \emph{Spectrochemica Acta}, \strong{1968}, \emph{23B}, 521-525; Tamaki, S.; Kuroda, T. "The Electronic Partition Functions of Atoms and Ions Between 7000 K and 12000 K" \emph{Spectrochimca Acta} \strong{1987}, \emph{42B}, 1105-1111; Irwin, A. W. "Polynomial Partition Function Approximations of 344 Atomic and Molecular Species" \emph{The Astrophysical Journal Supplement Series}, \strong{1981}, \emph{45}, 621-633.
 }

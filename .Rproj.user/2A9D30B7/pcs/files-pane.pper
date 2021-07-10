@@ -1,9 +1,9 @@
 {
-    "path" : "~/Box Sync/p-harvey/Teaching/R-Project/Atomic_Emission/atomicEmission",
-    "sortOrder" : [
+    "path": "~/Box Sync/p-harvey/Teaching/R-Project/Atomic_Emission/atomicEmission",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "ascending": true,
+            "columnIndex": 2
         }
     ]
 }

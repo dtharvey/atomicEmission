@@ -4,8 +4,13 @@
 \alias{identifyPeaks}
 \title{Identify Peaks in AES Spectrum}
 \usage{
-identifyPeaks(file, signal_type = c("relative", "absolute"),
-  percent_max = 1, num_peaks = 5, sortby = c("intensity", "wavelength"))
+identifyPeaks(
+  file,
+  signal_type = c("relative", "absolute"),
+  percent_max = 1,
+  num_peaks = 5,
+  sortby = c("intensity", "wavelength")
+)
 }
 \arguments{
 \item{file}{The name of the object, created using

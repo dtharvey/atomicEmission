@@ -4,8 +4,13 @@
 \alias{plotAES}
 \title{Plot Atomic Emission Spectrum}
 \usage{
-plotAES(file, lambda.min = 390, lambda.max = 700,
-  signal_type = c("relative", "absolute"), main_title = NULL)
+plotAES(
+  file,
+  lambda.min = 390,
+  lambda.max = 700,
+  signal_type = c("relative", "absolute"),
+  main_title = NULL
+)
 }
 \arguments{
 \item{file}{The name of an object, created by
