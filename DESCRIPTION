@@ -1,7 +1,7 @@
 Package: atomicEmission
 Type: Package
 Title: Simulation of Atomic Emission Spectra
-Version: 1.0.0
+Version: 1.0.1
 Author: David Harvey
 Maintainer: David Harvey <harvey@depauw.edu>
 Description: Simulates an element's atomic emission spectrum at a 
